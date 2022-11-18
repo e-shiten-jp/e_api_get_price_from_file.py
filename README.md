@@ -2,7 +2,9 @@
 ｅ支店APIで、ファイルにリストされた銘柄の株価を取得する。
 
 ファイル名: e_api_get_price_from_file.py
+
 銘柄リストファイル: price_list_in.csv
+
 
 APIバージョン： v4r3で動作確認
 
